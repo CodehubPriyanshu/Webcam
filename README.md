@@ -15,23 +15,23 @@ This project is a webcam-based application built using the MERN (MongoDB, Expres
 Follow these steps to clone and set up the project on your local machine:
 
 1. Clone the Repository
-git clone https://github.com/CodehubPriyanshu/Webcam.git
+git clone ### https://github.com/CodehubPriyanshu/Webcam.git
 
 2. Install Dependencies
 For the server (backend):
 cd server
-npm install
+### npm install
 For the client (frontend):
 cd client
-npm install
+### npm install
 
 3. Environment Configuration (.env Files)
 For the Client (client/.env)
-NODE_ENV=development
-PORT=5000
-MONGO_URI=
-JWT_SECRET=
-SALT=
+### NODE_ENV=development
+### PORT=5000
+### MONGO_URI=
+### JWT_SECRET=
+### SALT=
 
 4. Run the Project
 Start the backend server:
